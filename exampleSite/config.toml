@@ -1,6 +1,6 @@
 baseurl = "https://github.com/health-services-sites/MedTechServicesSite"
 title = "Universal"
-theme = "hugo-universal-theme"
+#theme = "hugo-universal-theme"
 themesDir = "../.."
 languageCode = "fr-fr"
 # Site language. Available translations in the theme's `/i18n` directory.
