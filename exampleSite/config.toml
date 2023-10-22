@@ -1,4 +1,3 @@
-baseurl = "https://github.com/"
 title = "MedTechServicesSite"
 theme = "MedTechServicesSite"
 themesDir = "../.."
