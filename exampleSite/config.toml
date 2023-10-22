@@ -1,12 +1,12 @@
 baseurl = "https://github.com/health-services-sites/MedTechServicesSite"
 title = "Universal"
-#theme = "hugo-universal-theme"
+theme = "hugo-universal-theme"
 themesDir = "../.."
 languageCode = "fr-fr"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "fr"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "devcows"
+disqusShortname = "health-services-sites"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
