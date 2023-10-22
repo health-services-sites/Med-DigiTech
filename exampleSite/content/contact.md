@@ -3,8 +3,16 @@ title = "Contact"
 id = "contact"
 +++
 
-# We are here to help you
+# Nous sommes à votre service
 
-Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
+Vous avez des questions ? Un soucis avec un de nos produits ? 
 
-Please feel free to contact us, our customer service center is working for you 24/7.
+Contactez-nous 7j/7 et une personne dédiée à votre demande vous répondra.
+
+---
+
+
+**Email:** Louiscabanis0@gmail.com
+
+**Téléphone:** [07 82 49 14 28](tel:0782491428)
+ 
