@@ -1,5 +1,5 @@
-baseurl = "https://github.com/health-services-sites/MedTechServicesSite"
-title = "Universal"
+baseurl = "https://github.com/"
+title = "MedTechServicesSite"
 theme = "MedTechServicesSite"
 themesDir = "../.."
 languageCode = "fr-fr"
