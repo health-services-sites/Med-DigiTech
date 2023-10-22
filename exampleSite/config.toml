@@ -1,3 +1,4 @@
+baseurl = "https://health-services-sites.github.io/MedTechServicesSite/"
 title = "MedTechServicesSite"
 theme = "MedTechServicesSite"
 themesDir = "../.."
