@@ -29,14 +29,6 @@ pluralizelisttitles = false
     url        = "/"
     weight     = 1
 
-
-
-[[menu.main]]
-    name       = "Blog"
-    identifier = "menu.blog"
-    url        = "/blog/"
-    weight     = 5
-
 [[menu.main]]
     name       = "FAQ"
     identifier = "menu.faq"
@@ -219,10 +211,10 @@ pluralizelisttitles = false
 [params.see_more]
     enable = true
     icon = "far fa-file-alt"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
+    title = "Vous voulez en savoir plus ?"
+    subtitle = "Consultez les nombreux exemples de sites et prenez contact avec nous"
+    link_url = "/contact"
+    link_text = "Nous contacter"
 
 [params.clients]
     enable = true

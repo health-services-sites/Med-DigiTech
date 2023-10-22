@@ -1,5 +1,5 @@
 weight: 6
 name: "Éditable"
-icon: "fa-pen"
+icon: "fas fa-marker"
 url: ""
 description: "CMS intégré pour une mise à jour facile et rapide du contenu sans connaissances techniques"
