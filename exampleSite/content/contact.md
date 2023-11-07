@@ -15,4 +15,6 @@ Contactez-nous 7j/7 et une personne dédiée à votre demande vous répondra.
 **Email:** louis.cabanis@med-digitech.com
 
 **Téléphone:** [07 82 49 14 28](tel:0782491428)
+
+**Prendre rendez-vous:** [rendez-vous en ligne](https://calendly.com/med-digitech)
  
