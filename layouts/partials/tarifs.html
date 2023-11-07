@@ -1,0 +1,238 @@
+<div class="container" id="contact">
+    <div class="row">
+        <div class="col-md-8">
+            <section>
+                {{ .Content }}
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="demo-wrapper">
+                                <div class="price-plan-wrapper">
+                                    <div class="price-plan-wrapper">
+                                        <div class="row">
+                                            <div class="col-lg-4  col-md-6 ">
+                                                <div class="pricing-table-16">
+                                                    <div class="price-header">
+                                                        <h3 class="title">Tech</h3>
+                                                        {{/* <span class="subtitle">Small business solution</span>
+                                                        */}}
+                                                    </div>
+                                                    <div class="price">
+                                                        <span class="dollar"></span>49<span class="month">€/Mois</span>
+                                                    </div>
+                                                    <div class="price-body">
+                                                        <ul>
+                                                            <li><b>Site</b> internet professionnel</li>
+                                                            <li><b>Référencement :</b> Optimisation du SEO
+                                                                & SEM</li>
+                                                            <li><b>Responsive :</b> Affichage optimisé pour
+                                                                les smartphones et tablettes</li>
+                                                            <li><b>Nom de domaine :</b> Location et
+                                                                configuration</li>
+                                                            <li><b>Hébergement</b> de vos données en
+                                                                France</li>
+                                                            <li><b>Sécurité renforcée</b><br>(protocoles https,
+                                                                serveurs sécurisés)</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-4  col-md-6 ">
+                                                <div class="pricing-table-16 active">
+                                                    <div class="price-header">
+                                                        <h3 class="title">Marketing</h3>
+                                                        {{/* <span class="subtitle">Medium business solution</span>
+                                                        */}}
+                                                    </div>
+                                                    <div class="price"><span class="dollar"></span>59<span
+                                                            class="month">€/Mois</span></div>
+                                                    <div class="price-body">
+                                                        <ul>
+                                                            <li>Toutes les fonctionnalités de <b>l'offre TECH</b></li>
+                                                            <li class="big"><b>+</b></li>
+                                                            <li><b>CMS :</b> Mise en place d’un outil de gestion de
+                                                                contenus</li>
+                                                            <li><b>Statistiques</b> de visite</li>
+                                                            <li><b>Google My Business :</b> Mise à jour et optimisation
+                                                                de votre <b>fiche</b></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-4  col-md-6 ">
+                                                <div class="pricing-table-16">
+                                                    <div class="price-header">
+                                                        <h3 class="title">Premium</h3>
+                                                        {{/* <span class="subtitle">Gigantic business
+                                                            solution</span> */}}
+                                                    </div>
+                                                    <div class="price"><span class="dollar">$</span>10<span
+                                                            class="month">/Mo</span></div>
+                                                    <div class="price-body">
+                                                        <ul>
+                                                            <li>Toutes les fonctionnalités de <b>l'offre TECH</b></li>
+                                                            <li class="big"><b>+</b></li>
+                                                            <li>Toutes les fonctionnalités de l'offre <b>MARKETING</b>
+                                                            </li>
+                                                            <li class="big"><b>+</b></li>
+                                                            <li><b>Emails</b> personnalisés</li>
+                                                            <li><b>Avis clients :</b> Collecte automatique via SMS et
+                                                                email, suivi et réponse</li>
+                                                        </ul>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="price-footer">
+                            <a class="order-btn" href=" /contact">Nous contacter</a>
+                        </div>
+                    </div>
+            </section>
+
+
+        </div>
+
+    </div>
+</div>
+
+<style>
+    .bg-gray {
+        background-color: #fbfbfb;
+    }
+
+    .price-plan-wrapper {
+        padding: 0 0 20px 0;
+    }
+
+    .pricing-table-16 {
+        margin-top: 20px;
+        text-align: center;
+        transition: 0.3s ease-in;
+        position: relative;
+        z-index: 0;
+        overflow: hidden;
+        box-shadow: 0 0 7px 0 rgba(77, 109, 230, 0.35);
+        border-radius: 10px;
+        border: 2px solid transparent;
+        padding-bottom: 20px;
+    }
+
+    .pricing-table-16:hover {
+        border-color: var(--primary-accent);
+    }
+
+    .pricing-table-16 .price-header {
+        position: relative;
+        transition: 0.3s ease-in;
+    }
+
+    .pricing-table-16 .price-header .title {
+        color: #282828;
+        font-size: 21px;
+        line-height: 26px;
+        text-transform: uppercase;
+        font-weight: 600;
+        margin-top: 20px;
+        transition: 0.3s ease-in;
+        margin-bottom: 5px;
+        padding: 10px 0 0;
+    }
+
+    .pricing-table-16 .price-header .subtitle {
+        margin-bottom: 5px;
+        display: block;
+        font-size: 14px;
+    }
+
+    .pricing-table-16 .price {
+        font-size: 50px;
+        color: #fff;
+        font-weight: 700;
+        text-align: center;
+        position: relative;
+        transition: 0.3s ease-in;
+        height: 130px;
+        width: 150px;
+        background-color: var(--primary-accent);
+        margin: 30px auto 15px auto;
+        line-height: 130px;
+        border-radius: 10px;
+        z-index: 0;
+    }
+
+    .pricing-table-16 .price .month {
+        font-size: 16px;
+        font-weight: 600;
+    }
+
+    .pricing-table-16 .price .dollar {
+        font-size: 33px;
+        line-height: 33px;
+        position: relative;
+        top: -12px;
+    }
+
+    .price-footer {
+        text-align: center;
+        padding-top: -80px !important;
+    }
+
+    .price-footer .order-btn {
+        display: inline-block;
+        width: 165px;
+        height: 50px;
+        line-height: 50px;
+        text-align: center;
+        font-size: 14px;
+        text-transform: uppercase;
+        border-radius: 25px;
+        color: #fff;
+        transition: 0.5s ease-in;
+        font-weight: 600;
+        position: relative;
+        overflow: hidden;
+        margin-bottom: 30px;
+        background-color: var(--primary-accent);
+    }
+
+    .price-footer .order-btn:hover {
+        box-shadow: 0 0 21px 0 rgba(51, 103, 214, 0.7);
+    }
+
+    .pricing-table-16 .price-body ul {
+        margin: 0;
+        padding: 0;
+    }
+
+    .pricing-table-16 .price-body ul li {
+        list-style: none;
+        display: block;
+        margin: 0 30px;
+        padding: 15px 0;
+        transition: 0.3s ease-in;
+    }
+
+    .pricing-table-16 .price-body ul li.big {
+        font-size: 2em;
+        margin: -15px;
+    }
+
+
+    .pricing-table-16 .price-body ul li:last-child {
+        border-bottom: none;
+        padding-bottom: 0;
+        margin-bottom: 0;
+    }
+
+    .pricing-table-16 .price-body ul li:first-child {
+        margin-top: 0;
+    }
+</style>
+
+{{ partial "map.html" . }}

@@ -12,7 +12,7 @@ Contactez-nous 7j/7 et une personne dédiée à votre demande vous répondra.
 ---
 
 
-**Email:** contact@med-digitech.com
+**Email:** louis.cabanis@med-digitech.com
 
 **Téléphone:** [07 82 49 14 28](tel:0782491428)
  
