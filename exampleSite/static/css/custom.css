@@ -14,3 +14,31 @@
 .box-simple {
     min-height: 230px;
 }
+
+.btn-wrapper {
+    text-align: center;
+}
+
+.btn-wrapper .custom-btn {
+    text-decoration: none;
+    display: inline-block;
+    width: 165px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    font-size: 14px;
+    text-transform: uppercase;
+    border-radius: 25px;
+    color: #fff;
+    transition: 0.5s ease-in;
+    font-weight: 600;
+    position: relative;
+    overflow: hidden;
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: var(--primary-accent);
+}
+
+.btn-wrapper .custom-btn:hover {
+    box-shadow: 0 0 21px 0 rgba(51, 103, 214, 0.7);
+}
