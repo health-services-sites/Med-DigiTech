@@ -3,4 +3,4 @@ title = "Tarifs"
 id = "tarifs"
 +++
 
-## Des tarifs sont adaptés à vos besoins :
+## Nos tarifs sont adaptés à vos besoins :
