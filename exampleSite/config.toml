@@ -151,8 +151,6 @@ pluralizelisttitles = false
     logo_small = "img/logo-small.png"
     contact_url = "/contact"
     address = """<p class="text-uppercase"><strong>Med-DigiTech.</strong>
-        <br>2 Avenue Octave Gérard
-        <br>75007 Paris
         <br>
         <strong>France</strong>
       </p>
